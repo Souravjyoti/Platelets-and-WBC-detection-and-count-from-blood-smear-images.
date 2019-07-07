@@ -11,4 +11,6 @@ For testing, I am including a few images from my dataset.
 
 A few snapsnots from the work:
 
+![Snapshot](https://github.com/Souravjyoti/Platelets-and-WBC-detection-and-count-from-blood-smear-images./blob/master/Snapshots/Screenshot%20(52).png)
+
 
