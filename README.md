@@ -1,1 +1,1 @@
-
+Platelet Detection and Count are one of the major analysis of the pathological test of the blood. Conventional methods of analysis involve observation of blood smear samples under the microscope and manually identifying and counting the numbers. This process is slow and tedious. This work presents a method to automatically detect and count the number of platelets.
