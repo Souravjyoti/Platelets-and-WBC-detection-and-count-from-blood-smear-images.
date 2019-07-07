@@ -8,3 +8,7 @@ Platelet Detection and Count are one of the major analysis of the pathological t
 Accuracies recorded were 95.6% for Platelets and 100% for WBCs.
 
 For testing, I am including a few images from my dataset.
+
+A few snapsnots from the work:
+
+
