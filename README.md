@@ -1,4 +1,5 @@
 Platelet Detection and Count are one of the major analysis of the pathological test of the blood. Conventional methods of analysis involve observation of blood smear samples under the microscope and manually identifying and counting the numbers. This process is slow and tedious. This work presents a method to automatically detect and count the number of platelets.
+
     For the work, self collected dataset was used but there are various datasets available in the net. BCCD and LISC dataset are a few popular datasets.
 	Link to thees datsets are: 
 		1. https://github.com/experiencor/BCCD_Dataset
