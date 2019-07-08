@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-img = cv2.imread('/home/sourav/Documents/Segmentation/Blood_images/image221.jpg')
+img = cv2.imread('Path to image')
 
 image = cv2.GaussianBlur(img,(5,5),0)
 cv2.imshow('Filtered_original',image)
