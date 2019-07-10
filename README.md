@@ -13,4 +13,6 @@ A few snapsnots from the work:
 
 ![Snapshot](https://github.com/Souravjyoti/Platelets-and-WBC-detection-and-count-from-blood-smear-images./blob/master/Snapshots/Screenshot%20(52).png)
 
+![Evaluation](https://github.com/Souravjyoti/Platelets-and-WBC-detection-and-count-from-blood-smear-images./blob/master/Snapshots/Screenshot%20(54).png)
+
 
